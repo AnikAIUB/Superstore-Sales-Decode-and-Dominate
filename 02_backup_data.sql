@@ -1,0 +1,1 @@
+CREATE TABLE backup_table AS SELECT * FROM superstore_sales_data;

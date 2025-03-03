@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS SUPERSHOP;
+
+SELECT * FROM superstore_sales_data;
