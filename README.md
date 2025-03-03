@@ -1,7 +1,11 @@
 # Superstore Sales: Decode & Dominate
 
+<br>
+
 ## 📌 Project Overview  
 This project analyzes superstore sales data to gain insights into customer behavior, product performance, regional sales trends, and overall profitability. The analysis is performed using SQL queries to clean, transform, and explore the dataset, ultimately helping in data-driven decision-making.
+
+<br>
 
 ## 📊 Project Steps
 
@@ -37,6 +41,8 @@ EDA was conducted to understand the dataset's structure and identify key busines
   - **At-Risk Customers**  
   - **Lost Customers**  
 
+<br>
+
 ## 🔍 Key Insights  
 ✅ Certain products drive the highest profits, while others consistently result in losses.  
 ✅ Sales performance varies by region, with some areas significantly outperforming others.  
@@ -44,9 +50,13 @@ EDA was conducted to understand the dataset's structure and identify key busines
 ✅ Customer segmentation helps in targeting marketing strategies effectively.  
 ✅ Shipping mode impacts order profitability, suggesting potential cost optimizations.  
 
+<br>
+
 ## 🚀 Conclusion  
 This SQL-based data analysis provides valuable insights into the superstore's sales performance, customer behavior, and product profitability. The findings can guide strategic decisions such as pricing strategies, marketing campaigns, and inventory management.  
 
+<br>
+
 ## 🛠️ Technologies Used  
-- **SQL** (MySQL)
-- **GitHub** (For version control)  
+- 🐬 **SQL** (MySQL)
+- 🐙 **GitHub** (For version control)  
